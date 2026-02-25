@@ -1,7 +1,7 @@
 # Insurance Cost Intelligence
 
 This project builds a machine learning model to predict insurance costs based on health and demographic variables.
-The goal is to explore how data science can support operational decision-making in healthcare insurance environments.
+The goal is to explore how data science can support operational decision making in healthcare insurance environments.
 
 ## Problem Statement
 Insurance cost behavior is often analyzed after costs occur.
